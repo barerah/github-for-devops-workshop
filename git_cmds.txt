@@ -30,3 +30,5 @@
    12  git clone  
    13  git clone  https://github.com/barerah/github-for-devops-workshop.git   
    14  history
+
+a new line is added from github
