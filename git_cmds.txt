@@ -1,18 +1,18 @@
-  16 ls -force
-  17 clear
-  18 git status
-  24 git add testing.py
-  25 git status
-  26 git rm --cached testing.py
-  27 git status
-  28 git add .
-  29 git status
-  30 git commit -m "added testing file"
-  31 git status
-  32 clear
-  33 rm testing.py
-  34 ls -force
-  35 git status
-  36 git restore testing.py
-  37 ls -force
-  38 git status
+   ls -force
+   clear
+   git status
+   git add testing.py
+   git status
+   git rm --cached testing.py
+   git status
+   git add .
+   git status
+   git commit -m "added testing file"
+   git status
+   clear
+   rm testing.py
+   ls -force
+   git status
+   git restore testing.py
+   ls -force
+   git status
