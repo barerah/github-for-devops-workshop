@@ -16,3 +16,17 @@
    git restore testing.py
    ls -force
    git status
+   git --verion
+    2  git --version
+    3  git remote -v
+    4  git remote set-url origin https://github.com/barerah/github-for-devops-workshop.git 
+    5  git remote -v
+    6  git push
+    7  git push -u origin master
+    8  ls
+    9  cd Documents
+   10  ls
+   11  cd git-clone-practice/
+   12  git clone  
+   13  git clone  https://github.com/barerah/github-for-devops-workshop.git   
+   14  history
